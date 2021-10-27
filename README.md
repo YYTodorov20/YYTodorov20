@@ -37,7 +37,10 @@ Hello, my name is [Yoan Todorov](https://github.com/YYtodorov20/)
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=YYTodorov20&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvatev98&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+  <summary><b> Badjes</b></summary>
+       <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
 </details>
+
   
  </div>
 
